@@ -28,4 +28,19 @@ Table of Contents:
 * The CSS files contain all the style sheet code for the web page: https://github.com/BeresIvan/ResponsivePortfolio/assets/css
 
 Current status and updates:
-* Ceated 
+* Created the file and folder structure of the website using Git Bash.
+* Wrote the a basic HTML code for all 3 pages.
+* Added the Bootstrap links to the header, also added the google font link and linked the 3 CSS files to the appropriate HTML files.
+* Added The javascript link to the bottom of the HTML files.
+* Copied and Added the Navbar to the container section.
+* Created the the rows a and columns inside the container elements.
+* Added the images links and text paragraph to their designated columns.
+* Added the codes to the footer elements.
+* Wrote the code in the css files to create the styling of the pages and added the background image link.
+
+The project was created by using Visual Studio Code https://code.visualstudio.com/ , Git Bash https://gitforwindows.org/index.html , and github https://github.com/join , Bootstrap https://getbootstrap.com/ , google fonts https://fonts.google.com/ .
+
+- Go to the repository page by following the link: https://github.com/BeresIvan/ResponsivePortfolio
+- Clone the repository using the "git clone" command in the command line.
+- Open the files in visual studio code using the ". code" command in the command line.
+- The web page can be accessed using this link https://beresivan.github.io/ResponsivePortfolio/
